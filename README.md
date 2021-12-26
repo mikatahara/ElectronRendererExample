@@ -13,5 +13,6 @@ You can test this app by below commans.
 
 The desctiption, sorry Japanease, is [here](https://www.webmidiaudio.com/npage607.html#Electron_Renderer).
 
+<img src="renderer.jpg" width="50%">
 
 
